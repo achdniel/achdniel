@@ -1,4 +1,4 @@
-# 💫 Greetings, I'm Daniel:
+# Greetings, I'm Daniel:
 🔭 I’m currently working on Personal project<br>🌱 Learning Website technologies, Ai, Software Engineering, and tech related stuffs.<br>📫 Work and Collaboration achdniel@gmail.com
 
 
