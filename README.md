@@ -1,5 +1,5 @@
 # Greetings, I'm Daniel:
-🔭 I’m currently working on Personal project<br>🌱 Learning Website technologies, Ai, Software Engineering, and tech related stuffs.<br>📫 Work and Collaboration achdniel@gmail.com
+🔭 Currently working on Personal project<br>🌱 Learning Website technologies, Ai, Software Engineering, and tech related stuffs.<br>📫 Work and Collaboration achdniel@gmail.com
 
 
 ## 🌐 Socials:
